@@ -2,7 +2,7 @@
 ### Versões:
 + Visual Studio Basic 2022
 + Visual Studio Code
-+ MySql
++ MySQL
 
 ### Backend:
 + ASP.Net Web Api Core
