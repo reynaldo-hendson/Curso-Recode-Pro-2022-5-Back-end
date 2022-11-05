@@ -1,17 +1,13 @@
 # 5ª Atividade curso Fullstack RecodePro 2022.
+
+### Backend
+
 ### Versões:
 + Visual Studio Basic 2022
-+ Visual Studio Code
 + MySQL
 
 ### Backend:
 + ASP.Net Web Api Core
-
-### Frontend:
-+ React
-+ Axios
-+ Bootstrap
-+ Reactstrap
 
 ### Database:
 + MySQL 
